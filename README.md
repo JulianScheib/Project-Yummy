@@ -8,7 +8,7 @@ Welcome to **Yummy**, a delightful recipe-sharing platform designed for food ent
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
+
 
 ## Introduction
 
