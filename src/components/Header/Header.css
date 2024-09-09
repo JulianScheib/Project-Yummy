@@ -1,0 +1,44 @@
+header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 2em;
+  padding: 2em;
+}
+
+.toggle-theme {
+  align-self: self-end;
+  position: absolute;
+  padding: 0;
+}
+
+.dark-switcher, .light-switcher  {
+  display: block;
+  width: 30px;
+  height: 30px;
+}
+
+.logo-button {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.divwrapper {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+
+.light-image-wrapper {
+  background-image: url("/img/yummy-logo.png");
+}
+
+.dark-image-wrapper {
+  background-image: url("/img/Yummy_yeah.png");
+}
+
+
