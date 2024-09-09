@@ -1,4 +1,4 @@
-# Yummy Julian
+# Yummy Rezepte
 
 <img width="1088" alt="Bildschirmfoto 2024-08-14 um 09 10 54" src="https://github.com/user-attachments/assets/5a5e5f77-b2a4-47a0-b3ea-3d260b4b8e98">
 
@@ -12,7 +12,7 @@ Welcome to **Yummy**, a delightful recipe-sharing platform designed for food ent
 
 ## Introduction
 
-Yummy Pablo is a recipe website where users can browse through a diverse collection of recipes. Whether you're looking for quick and easy dinner ideas or elaborate dishes to impress your guests, Yummy has something for everyone.
+Yummy is a recipe website where users can browse through a diverse collection of recipes. Whether you're looking for quick and easy dinner ideas or elaborate dishes to impress your guests, Yummy has something for everyone.
 
 Visit the live site: [Yummy](https://yummy-rezepte.netlify.app/)
 
