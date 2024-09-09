@@ -14,7 +14,7 @@ Welcome to **Yummy**, a delightful recipe-sharing platform designed for food ent
 
 Yummy Pablo is a recipe website where users can browse through a diverse collection of recipes. Whether you're looking for quick and easy dinner ideas or elaborate dishes to impress your guests, Yummy has something for everyone.
 
-Visit the live site: [Yummy](https://yummypablo.netlify.app/)
+Visit the live site: [Yummy](https://yummy-rezepte.netlify.app/)
 
 ## Features
 
@@ -29,11 +29,4 @@ Visit the live site: [Yummy](https://yummypablo.netlify.app/)
 - **React**: A powerful JavaScript library for building dynamic user interfaces.
 - **Netlify**: For deployment and hosting of the web application.
 
-## Installation
 
-If you want to run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/yummypablo.git
-   cd yummypablo
